@@ -1,0 +1,7 @@
+git commit 
+git config  --global user.email koder228@gmail.com
+git config  --global user.name TaWeP
+git commit -m "done"
+git log 
+touch Quest_2.command_history 
+vim Quest_2.command_history 
